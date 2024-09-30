@@ -1,3 +1,5 @@
+### Projeto de implementação do iPhone em UML e Java
+```mermaid
 classDiagram
     class ReprodutorMusical {
         +pausar()
@@ -29,3 +31,4 @@ classDiagram
     iPhone --> AparelhoTelefonico
     iPhone --> NavegadorInternet
     iPhone --> LeitorEmail
+```
